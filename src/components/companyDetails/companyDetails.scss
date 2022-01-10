@@ -1,0 +1,10 @@
+@use '../../cutsom' as *;
+
+.companyDetails {
+  // border: 1px solid black;
+  .icon {
+    color: $primary;
+    font-size: 1.4rem;
+    margin-left: 0.5em;
+  }
+}

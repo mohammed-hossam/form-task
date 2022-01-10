@@ -1,0 +1,25 @@
+.feedBackForm {
+  // border: 1px solid blue;
+
+  label {
+    color: #139f4c;
+    top: 0 !important;
+    right: 0;
+    left: auto !important;
+  }
+  .error {
+    color: red;
+  }
+
+  button {
+    font-weight: bold;
+  }
+
+  input,
+  textarea {
+    // text-align: right !important;
+    // direction: rtl !important;
+    // background-color: #f6f6f6;
+    border: none;
+  }
+}
